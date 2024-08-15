@@ -1,0 +1,8 @@
+.pythonlibs/
+.upm/
+.git/
+
+poetry.lock
+pyproject.toml
+.replit
+.env
